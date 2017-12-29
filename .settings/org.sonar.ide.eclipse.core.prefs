@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://10.10.10.183\:9000/sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://10.10.10.191\:3308/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.jdbc.driverClassName\=com.mysql.jdbc.Driver
+projectKey=org.study\:sharding-jdbc-mybatis
+serverUrl=http\://localhost\:9000
+version=2
